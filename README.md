@@ -1,4 +1,2 @@
 # Algorithms
-Algo
-
-Main learned algorithms coding.
+Algorithms, which I learned and coded...
