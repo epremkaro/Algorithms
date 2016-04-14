@@ -10,6 +10,7 @@ public class BinarySearch {
 		//comment 12
 		Arrays.sort(bs.a);
 		bs.display(bs.find(11));
+		System.out.println(Arrays.binarySearch(bs.a, 11));
 	}
 	
 	
