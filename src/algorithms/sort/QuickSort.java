@@ -12,7 +12,7 @@ public class QuickSort {
 		int left = 0;
 		int right = arr.length - 1;
 		quickSort(arr, left, right);
-		
+		System.out.println();
 		System.out.println(Arrays.toString(arr));
 		
 	}
