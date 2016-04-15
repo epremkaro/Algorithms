@@ -7,7 +7,7 @@ public class BinarySearch {
 	private int[] a = new int[]{1, 123, 455, 6565, 4, 11, 0, 111};
 	public static void main(String[] args) {
 		BinarySearch bs = new BinarySearch();
-		
+		//comment 1234
 		Arrays.sort(bs.a);
 		bs.display(bs.find(11));
 		System.out.println(Arrays.binarySearch(bs.a, 11));
