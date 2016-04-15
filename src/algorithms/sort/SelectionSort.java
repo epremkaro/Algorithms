@@ -26,6 +26,8 @@ public class SelectionSort {
 			arr[out] = arr[min];
 			arr[min] = tmp;
 			
+			//
+			
 		}
 		
 	}
