@@ -2,7 +2,7 @@ package algorithms.sort;
 
 import java.util.Arrays;
 
-public class InsertionSort {
+public class which need to learnnsertionSort {
 
 	public static void main(String[] args) {
 		
